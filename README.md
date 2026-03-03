@@ -1,4 +1,4 @@
-#**Overview**
+# **Overview**
 This project implements a hybrid AI-powered recommendation system that suggests relevant SHL assessments based on hiring queries.
 The system combines traditional keyword-based retrieval with semantic embedding-based reranking to improve relevance and robustness.
 
